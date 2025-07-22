@@ -1,6 +1,6 @@
-# hDC Host - Clone de Landing Page (HTML & CSS)
+# HDC Host - Clone de Landing Page (HTML & CSS)
 
-Este projeto é um **clone da interface de uma landing page de serviços de hospedagem**, chamado "hDC Host". Desenvolvido puramente com **HTML e CSS**, ele foca em apresentar os principais aspectos de um site de hospedagem, como serviços oferecidos, planos de preços e formulários de contato e busca de domínio, tudo com um **design responsivo**.
+Este projeto é um **clone da interface de uma landing page de serviços de hospedagem**, chamado "HDC Host". Desenvolvido puramente com **HTML e CSS**, ele foca em apresentar os principais aspectos de um site de hospedagem, como serviços oferecidos, planos de preços e formulários de contato e busca de domínio, tudo com um **design responsivo**.
 
 ---
 
@@ -34,6 +34,5 @@ Contribuições são sempre **bem-vindas**! Se você tiver sugestões de melhori
 ## Licença
 
 Este projeto é de código aberto e está disponível sob a [**Licença MIT**](LICENSE).
----
 
-## Estrutura do Projeto
+---
